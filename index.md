@@ -1,3 +1,1 @@
-# Welcome to CartWillApps
-
 Let's build something great together...
