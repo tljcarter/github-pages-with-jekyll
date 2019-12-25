@@ -6,8 +6,8 @@ description: > # this means to ignore newlines until "baseurl:"
   
 # social links
 twitter_username: tljcarter
-# github_username:  tljcarter
-linkedin: tom-carter-9136422
+github_username:  tljcarter
+linkedin_username: tom-carter-9136422
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
