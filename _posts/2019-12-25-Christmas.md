@@ -1,6 +1,6 @@
 
 ---
-title: "Christmer"
+title: "Christmas"
 date: 2019-12-25
 ---
 
